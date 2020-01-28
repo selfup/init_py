@@ -13,11 +13,16 @@ Self contained, auto formatting, auto linting, hands free Python 3 template :tad
 ### Activate venv
 
 - macOS/Linux: `source .venv/bin/activate`
-- Windows: `.venv\Scripts\activate.bat`
+- Windows (cmd): `.venv\Scripts\activate.bat`
+- Windows (pwsh): `.venv\Scripts\activate.ps1`
 
 ### Install deps
 
 `pip3 install -r requirements.txt`
+
+### Upgrade pip
+
+`python -m pip install --upgrade pip`
 
 ### Run script
 

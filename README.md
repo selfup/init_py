@@ -18,7 +18,7 @@ Self contained, auto formatting, auto linting, hands free Python 3 template :tad
 
 ### Install deps
 
-`pip3 install -r requirements.txt`
+`pip install -r requirements.txt`
 
 ### Upgrade pip
 
@@ -26,7 +26,7 @@ Self contained, auto formatting, auto linting, hands free Python 3 template :tad
 
 ### Run script
 
-`python3 main.py`
+`python main.py`
 
 ### Deactivate venv
 

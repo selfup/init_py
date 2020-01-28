@@ -1,15 +1,10 @@
-# VSCode Python 3 Template
+# VSCode Python 3 Starter
 
-Python 3 and venv basic setup template
+Self contained, auto formatting, auto linting, hands free Python 3 template :tada:
 
-```json
-{
-  "python.pythonPath": ".venv/bin/python3",
-  "python.linting.pylintEnabled": true,
-  "python.linting.enabled": true,
-  "python.formatting.provider": "black"
-}
-```
+- Formatter: [black](https://black.readthedocs.io/en/stable/)
+- Linter: [pylint](https://www.pylint.org/)
+- Virtual Environment: [venv](https://docs.python.org/3/library/venv.html)
 
 ### Setup
 

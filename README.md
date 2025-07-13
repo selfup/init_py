@@ -1,3 +1,5 @@
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
 # VSCode Python 3 Starter
 
 Self contained, auto formatting, auto linting, hands free Python 3 template :tada:
@@ -8,7 +10,7 @@ Self contained, auto formatting, auto linting, hands free Python 3 template :tad
 
 ### Setup
 
-`python3 -m venv .venv`
+`python -m venv .venv`
 
 ### Activate venv
 
